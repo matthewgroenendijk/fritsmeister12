@@ -8,18 +8,9 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 Currently improving my Front-End skills: Flutter, CSS and React<br />
 
-### My most recent posts on [dev.to](https://dev.to/) 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [Inspiring web designers and developers to follow on Twitter](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
-- [Why I decided to develop my site in Gatsby](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
-- [Automating the GitHub workflow for any project](https://dev.to/diogorodrigues/automating-the-github-workflow-for-any-project-33kf)
-- [Tips and resources on how to improve your UI design skills](https://dev.to/diogorodrigues/tips-and-resources-on-how-to-improve-your-ui-design-skills-29i3)
-- [Which type of Front-end developer am I?](https://dev.to/diogorodrigues/which-type-of-front-end-developer-am-i-2a56)
-<!-- BLOG-POST-LIST:END -->
-
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/matthewgroenendijk/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/matthew-groenendijk-5b0753177/)
 
 
 **[matthewgroenendijk.com](https://www.matthewgroenendijk.com/)**
