@@ -6,10 +6,9 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
-BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
+Currently improving my Front-End skills: Flutter, CSS and React<br />
 
-### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
+### My most recent posts on [dev.to](https://dev.to/) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [Inspiring web designers and developers to follow on Twitter](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
 - [Why I decided to develop my site in Gatsby](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
@@ -20,7 +19,7 @@ BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/matthewgroenendijk/)
 
 
-**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
+**[matthewgroenendijk.com](https://www.matthewgroenendijk.com/)**
