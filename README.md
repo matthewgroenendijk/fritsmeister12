@@ -6,7 +6,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my Front-End skills: Flutter, CSS and React<br />
+Currently working on: Globalrunning.com and Loopreizen.nl<br />
 
 ### Find me elsewhere 🌎
 
